@@ -1,4 +1,4 @@
-package service;
+package com.folksdev.bookstore.service;
 
 import com.folksdev.bookstore.model.Book;
 import com.folksdev.bookstore.model.Order;

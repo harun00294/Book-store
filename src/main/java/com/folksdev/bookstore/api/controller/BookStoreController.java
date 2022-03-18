@@ -4,7 +4,7 @@ import com.folksdev.bookstore.dto.BookOrderRequest;
 import com.folksdev.bookstore.model.Order;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
-import service.OrderService;
+import com.folksdev.bookstore.service.OrderService;
 
 @RestController
 @RequestMapping("/v1/bookstore")
